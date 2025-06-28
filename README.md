@@ -49,6 +49,8 @@ Full Mode (with OS detection — slower, requires root):
 
 ⚠️ Notes:
 
+    AS A SUDO IT WILL LOAD MUCH LONGER THAN WITHOUT
+
     MIGHT NOT WORK WITHOUT DOING ALL THE REQUIREMENTS WITHOUT SUDO (ill fix that)
 
     OS detection (-O) requires root privileges.
