@@ -86,3 +86,7 @@ Ideas, bug reports, or pull requests are welcome! Open an issue or create a PR i
 📜 License
 
 MIT License. Use responsibly.
+
+
+
+made by Schweppeswastaken when Schweppeswastaken was 14 years old.
