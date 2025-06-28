@@ -1,0 +1,4 @@
+python-nmap
+matplotlib
+networkx
+mac-vendor-lookup
